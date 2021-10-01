@@ -2,7 +2,7 @@
 /**
  *  Descripción de un estudiante
  * 
- * @author - Nidae
+ * @author - NidaeAB
  *  
  */
 public class Estudiante
